@@ -28,11 +28,3 @@ This is a command-line Bank Management System written in Python. It allows the b
 - Jupyter Notebook (for running the `.ipynb` file)
 
 ---
-
-## 📦 How to Run
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/bank-management-system.git
-cd bank-management-system
